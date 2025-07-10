@@ -2,7 +2,8 @@
   "name": "package-installer",
   "displayName": "package-installer",
   "description": "Installs missing npm packages on hover in import statements",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "image/icon.jpg",
   "engines": {
     "vscode": "^1.101.0"
   },
@@ -53,5 +54,9 @@
     "@vscode/test-cli": "^0.0.11",
     "@vscode/test-electron": "^2.5.2"
   },
-  "publisher": "SamdaniMozumder"
+  "publisher": "SamdaniMozumder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samdani91/package-installer.git"
+  }
 }

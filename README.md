@@ -1,6 +1,6 @@
 # package-installer
 
-This is the README for the "package-installer" vs code extension. This extension enhances your development experience in Visual Studio Code by automatically detecting missing npm packages in import statements and providing easy installation options.
+This extension enhances your development experience in Visual Studio Code by automatically detecting missing npm packages in import statements and providing easy installation options.
 
 ## Features
 
@@ -13,7 +13,11 @@ The `package-installer` extension offers the following features to streamline yo
 
 
 
-> **Tip**: Consider creating short GIF animations to demonstrate these features in action using tools like LICEcap or ScreenToGif for a more engaging README.
+## 🖥️ Demo
+
+See `package-installer` in action:
+
+![Demo](image/demo.gif)
 
 ## Requirements
 
@@ -41,7 +45,9 @@ This extension does not currently contribute any VS Code settings. Future update
 ### 0.0.1
 Initial release of the `package-installer` extension with hover-based package installation and "Install All Dependencies" command to install all missing npm packages in a .tsx or .jsx file.
 
----
+### 0.0.2
+Added the logo and updated the readme with a demo.
+
 
 ## Following Extension Guidelines
 
