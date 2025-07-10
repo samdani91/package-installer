@@ -1,6 +1,6 @@
-# package-installer README
+# package-installer
 
-This is the README for the "package-installer" extension. This extension enhances your development experience in Visual Studio Code by automatically detecting missing npm packages in import statements and providing easy installation options.
+This is the README for the "package-installer" vs code extension. This extension enhances your development experience in Visual Studio Code by automatically detecting missing npm packages in import statements and providing easy installation options.
 
 ## Features
 
